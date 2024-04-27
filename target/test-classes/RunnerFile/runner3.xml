@@ -1,0 +1,15 @@
+<suite name="Suite1" verbose="1">
+
+    <groups>
+        <run>
+            <include name="Smoke"/>
+        </run>
+    </groups>
+
+    <test name="Automation">
+        <packages>
+            <package name="com.automation.test"/>
+        </packages>
+    </test>
+
+</suite>

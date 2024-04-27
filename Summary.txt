@@ -1,0 +1,13 @@
+1. TestNG - Testing Tool
+
+2. Annotation
+
+3. Manual Test Cases
+
+4. Runner.XML
+
+	a. How to run whole package (refer runner.xml)
+	b. How to run a single class (refer runner1.xml)
+	c. How to run multiple classes (refer runner1.xml)
+	d. include and exclude Tag
+	e. Groupings

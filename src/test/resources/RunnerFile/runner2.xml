@@ -1,0 +1,19 @@
+<suite name="Suite1" verbose="1">
+<test name="Regression1">
+     <classes>
+        <class name="com.automation.test.VerifyLogin">
+            <methods>
+                <include name="VerifyUserisUnableToLoginInvalidCredential"/>
+            </methods>
+        </class>
+
+         <class name="com.automation.test.CartPage">
+             <methods>
+                 <exclude name="ClickOnContinueShoppingAndVerifyUserIsOnHomePage"/>
+             </methods>
+         </class>
+
+    </classes>
+</test>
+
+</suite>
