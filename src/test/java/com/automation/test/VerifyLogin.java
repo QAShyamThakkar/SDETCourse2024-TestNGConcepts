@@ -2,17 +2,7 @@ package com.automation.test;
 
 import org.testng.annotations.*;
 
-public class VerifyLogin {   //b /A /123, //B //123 //A, A B, 123
-
-    @BeforeClass
-    public static void beforeTest() {
-        System.out.println("BeforeClass");
-    }
-
-    @AfterClass
-    public static void afterTest() {
-        System.out.println("AfterClass");
-    }
+public class VerifyLogin extends BasePage{   //b /A /123, //B //123 //A, A B, 123
 
     @BeforeTest
     public static void beforeTest1() {

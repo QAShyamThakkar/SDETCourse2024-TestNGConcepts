@@ -1,14 +1,11 @@
-<suite name="Suite1" verbose="1">
+<suite name="Suite1" verbose="3">
     <test name="Shyam">
         <classes>
-            <class name="com.automation.test.VerifyLogin"/>
+<!--            <class name="com.automation.test.VerifyLogin"/>-->
             <class name="com.automation.test.CartPage"/>
         </classes>
     </test>
 
-    //BeforeClas
-    VerifyloginTEstCase
-    //AfterCLass
 
 
 <!--    <test name="Regression1">-->

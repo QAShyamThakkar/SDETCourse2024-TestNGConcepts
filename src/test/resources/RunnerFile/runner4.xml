@@ -1,0 +1,8 @@
+<suite name="My suite"  parallel="methods" thread-count="4">
+    <parameter name="browser"  value="chrome"/>
+    <test name="CartPage">
+        <packages>
+            <package name="com.automation.test"/>
+        </packages>
+    </test>
+</suite>

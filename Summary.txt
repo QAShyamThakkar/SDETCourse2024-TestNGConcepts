@@ -11,3 +11,18 @@
 	c. How to run multiple classes (refer runner1.xml)
 	d. include and exclude Tag
 	e. Groupings
+
+5. Dependencies and Priorities
+
+6. BaseClass
+
+7. Parameters
+
+8. Parallel Execution
+
+9. Data Driven Testing
+
+10. Reporting
+
+11. Assertions
+

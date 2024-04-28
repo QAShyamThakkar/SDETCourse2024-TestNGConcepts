@@ -7,7 +7,7 @@
             </methods>
         </class>
 
-         <class name="com.automation.test.CartPage">
+         <class name="com.automation.test.CartPage_ParallelTesting">
              <methods>
                  <exclude name="ClickOnContinueShoppingAndVerifyUserIsOnHomePage"/>
              </methods>

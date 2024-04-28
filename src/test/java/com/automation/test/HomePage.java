@@ -4,18 +4,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class HomePage {
-
-    @BeforeClass
-    public static void beforeTest() {
-        System.out.println("BeforeClass");
-    }
-
-    @AfterClass
-    public static void afterTest() {
-        System.out.println("AfterClass");
-    }
-
+public class HomePage extends BasePage{
 
 
     @Test
